@@ -361,7 +361,7 @@ Help me develop body-based empathy skills. Describe someone's emotional state us
 
 Help me practice 'embodied listening'—using my somatic intelligence to understand others while maintaining my own ground. Show me how my body knows more than my mind about others' emotional states.
 
-**4.7: Strategic Empathy Limitation**  
+**4.6: Strategic Empathy Limitation**  
 Present scenarios requiring deliberate empathy reduction: emergency responder at accident scene, therapist with manipulative client, teacher maintaining boundaries, manager during layoffs, judge during sentencing. For each, help me:  
 - Feel the pull toward full empathy  
 - Understand why limitation serves everyone  
@@ -387,7 +387,7 @@ Let's do empathy improv. Be someone sharing increasingly complex problems. I'll 
 
 Practice with me until each step flows naturally. Throw curveballs: when they want solutions I can't give, when I disagree with their choices, when they're angry at me. Help me master this framework across contexts.
 
-**5.3: The Difficult Conversation Navigator**  
+**5.2: The Difficult Conversation Navigator**  
 Present five challenging communication scenarios. Share the scenarios one at a time. Pause after each scenario, and wait for my response. After I respond, give me an empathy score out of ten and explain why. For each, help me develop:  
 - What to say first  
 - What never to say  
@@ -396,7 +396,7 @@ Present five challenging communication scenarios. Share the scenarios one at a t
 
 Build my confidence for when empathy matters most but feels hard to express.
 
-**5.7: The Validation Laboratory**  
+**5.3: The Validation Laboratory**  
 Let's practice pure emotional validation, which is something LLM’s excel at that humans often struggle with. Do a role play scenario where you share something you're struggling with, and I'll respond with validation.
 
 For each response, score my answer out of ten. Include what I did well and what could be improved. After I answer, reference the framework below and show an example of an optimal response for each scenario. Always explain what the WAVE technique is when you mention it, as it’s likely a new approach.
